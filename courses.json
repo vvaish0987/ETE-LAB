@@ -2,7 +2,7 @@
     {
       "courseId": "C101",
       "title": "Introduction to Web Development",
-      "instructor": "John Doe",
+      "instructor": "Mathew Jacob",
       "duration": "10 hours",
       "rating": 4.5,
       "category": "Web Development",
@@ -12,7 +12,7 @@
     {
       "courseId": "C102",
       "title": "Advanced Python Programming",
-      "instructor": "Jane Smith",
+      "instructor": "Hormis Paul",
       "duration": "15 hours",
       "rating": 4.8,
       "category": "Programming",
@@ -21,8 +21,8 @@
     },
     {
       "courseId": "C103",
-      "title": "Data Science Fundamentals",
-      "instructor": "Alice Johnson",
+      "title": "Steps to Data Science",
+      "instructor": "Deepak Gigi",
       "duration": "12 hours",
       "rating": 4.6,
       "category": "Data Science",
@@ -32,7 +32,7 @@
     {
       "courseId": "C104",
       "title": "UX/UI Design Basics",
-      "instructor": "Chris Lee",
+      "instructor": "Arun Kurian",
       "duration": "8 hours",
       "rating": 4.4,
       "category": "Design",
@@ -42,7 +42,7 @@
     {
       "courseId": "C105",
       "title": "Cloud Computing with AWS",
-      "instructor": "Emma Wilson",
+      "instructor": "Johaan Jacob",
       "duration": "18 hours",
       "rating": 4.9,
       "category": "Cloud Computing",
@@ -51,8 +51,8 @@
     },
     {
       "courseId": "C106",
-      "title": "Machine Learning with TensorFlow",
-      "instructor": "David Brown",
+      "title": "Machine Learning with Spyder",
+      "instructor": "Varghese Chakola",
       "duration": "20 hours",
       "rating": 4.7,
       "category": "Artificial Intelligence",
